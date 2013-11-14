@@ -1,0 +1,3 @@
+First file for GitHub Training
+
+This is not a empty file anymore
